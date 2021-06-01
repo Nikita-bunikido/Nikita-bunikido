@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Nikita-bunikido
+- 👀 I’m interested in C programming language, Visual studio code, C++ programming language
+- 🌱 I’m currently learning programming in C
