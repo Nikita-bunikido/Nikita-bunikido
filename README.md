@@ -4,7 +4,7 @@
 - I have **[Telegram](t.me/cprogblog) channel**
 
 ---
-I am currently learn:
+I am currently learning:
   - AVR C ( ATmega328P, ATTiny85, Arduino Nano/Uno )
   - x86 Assembler
 
@@ -15,7 +15,7 @@ I build projects with: **Mingw** ( Make, Binary tools, Gdb, compilers, linkers, 
 I use libraries, such as:
   - [RayLib](https://github.com/raysan5/raylib)
   - [Sqlite](https://sqlite.org/index.html)
-  - WinApi ( ```user32.dll```, ```kernel32.dll``` )
+  - [WinApi](https://learn.microsoft.com/en-us/windows/win32/apiindex/windows-api-list)
 
 ---
 
