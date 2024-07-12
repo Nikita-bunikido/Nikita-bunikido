@@ -1,6 +1,5 @@
 - I am *Nikita Donskov*.
 - I am interested in **software developing, reverse engineering**.
-- I have **[YouTube](https://www.youtube.com/channel/UCW3RoBYtEBnrX_dOI3ELlxA) channel**
 - I have **[Telegram](t.me/cprogblog) channel**
 
 ---
