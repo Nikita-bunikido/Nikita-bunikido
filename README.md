@@ -1,6 +1,5 @@
 - I am *Nikita Donskov*.
 - I am interested in **software developing, reverse engineering**.
-- I have **[Telegram](t.me/cprogblog) channel**
 
 ---
 I am currently learning:
@@ -17,9 +16,5 @@ I use libraries, such as:
   - [WinApi](https://learn.microsoft.com/en-us/windows/win32/apiindex/windows-api-list)
 
 ---
-
-Text me!
-- Discord - Nikita_Donskov2007#1062
-- Telegram - @PACTP_HE_BEKTOP
 
 > "... if you know assembler, every program for you is opensource"
